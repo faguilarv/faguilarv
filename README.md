@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋 I´m Francisco Aguilar
+## but can you say me faguilar
+### I´m Developer FullStack 
 
-<!--
-**faguilarv/faguilarv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 👨‍💻 Me gusta la programación, brindar soporte. Actualmente estoy en una etapa Junior, estoy especialmente interesado en desarrollarme en aplicaciones web y desarrollo de software. Tengo conocimiento de html, css, js, node.js, express, postgreSQL.
 
-Here are some ideas to get you started:
+ ## Contacto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+
+
+ 
+
+- 📍Actualmente vivo en Chile
+
+
