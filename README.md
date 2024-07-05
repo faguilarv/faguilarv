@@ -21,7 +21,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-0064a5?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 💾 Social
+### 📡 Social
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faguilarvergara/)
 
